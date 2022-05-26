@@ -1,6 +1,7 @@
-###########################
-## Basic chart functions ##
-###########################
+
+#################################
+## Graphical displayes of data ##
+#################################
 
 # tabulate the data to get the frequency distribution
 table(census4)
@@ -54,3 +55,4 @@ cpi = c(20.0, 16.7, 14.0, 24.1, 29.6, 38.8, 82.4, 130.7, 172.2, 218.1)
 plot(year, cpi, type="b") # lines and dots
 plot(year, cpi, type="l") # lines
 points(year, cpi) # add dots
+
