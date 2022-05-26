@@ -24,18 +24,3 @@ names(dt)
 # get the summary of the variables
 summary(dt)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

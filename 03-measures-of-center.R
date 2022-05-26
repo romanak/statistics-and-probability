@@ -1,6 +1,7 @@
-###########################
-## Mean, median and mode ##
-###########################
+
+########################
+## Measures of center ##
+########################
 
 # calculate the mean of the distribution
 sleep = c(5, 6, 8, 10, 4, 6, 9)
@@ -36,3 +37,4 @@ modal(age)
 
 # determine the skewness
 hildebrand.rule(age)
+
