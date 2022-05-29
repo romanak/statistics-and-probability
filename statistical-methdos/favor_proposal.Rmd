@@ -1,0 +1,9 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+rdu<-function(n,k) sample(1:k,n,replace=T)
+samples = rdu()
+```
